@@ -1,4 +1,15 @@
-## Hi there 👋
+## Welcome, my name is Priscila! 👋
+
+### 💡 About me
+🎓 I'm BYUI student, majoring in Cybersecurity (Sophomore)
+🌱 I’m currently learning Cloud Computing and System Security I
+🔭 I’m currently working on compTIA Security+
+🎯 Latest Project: Hackathon USU:
+Developed a web application in a team environment designed to analyze and evaluate programming documentation and source code (supporting languages like Python, JavaScript, and more).
+
+📫 Contact form: 
+- [LinkedIn] www.linkedin.com/in/priscila-nk
+- [E-mail] nov24002@byui.edu
 
 <!--
 **Puriya56/Puriya56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
